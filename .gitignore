@@ -211,14 +211,19 @@ index.debug/***
 index.premium.debug/***
 
 index.bat
+index.bat.zip
 index.exe
+index.exe.zip
 index.test.js
 
 install.bat
 install.bat.zip
+install.exe.zip
 
 start.bat
 start.bat.zip
+start.exe.zip
 
 update.bat
 update.bat.zip
+update.exe.zip
